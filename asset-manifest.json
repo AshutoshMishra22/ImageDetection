@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ImageDetection/static/css/main.420b58aa.chunk.css",
+    "main.js": "/ImageDetection/static/js/main.a72a242e.chunk.js",
+    "main.js.map": "/ImageDetection/static/js/main.a72a242e.chunk.js.map",
+    "runtime-main.js": "/ImageDetection/static/js/runtime-main.a40cc5be.js",
+    "runtime-main.js.map": "/ImageDetection/static/js/runtime-main.a40cc5be.js.map",
+    "static/js/2.53bf27ba.chunk.js": "/ImageDetection/static/js/2.53bf27ba.chunk.js",
+    "static/js/2.53bf27ba.chunk.js.map": "/ImageDetection/static/js/2.53bf27ba.chunk.js.map",
+    "index.html": "/ImageDetection/index.html",
+    "precache-manifest.32a503779e88630c7d0b240c1525a4d2.js": "/ImageDetection/precache-manifest.32a503779e88630c7d0b240c1525a4d2.js",
+    "service-worker.js": "/ImageDetection/service-worker.js",
+    "static/css/main.420b58aa.chunk.css.map": "/ImageDetection/static/css/main.420b58aa.chunk.css.map",
+    "static/js/2.53bf27ba.chunk.js.LICENSE.txt": "/ImageDetection/static/js/2.53bf27ba.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ImageDetection/static/media/logo.ee7cd8ed.svg",
+    "static/media/spinner.gif": "/ImageDetection/static/media/spinner.d05ff73b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a40cc5be.js",
+    "static/js/2.53bf27ba.chunk.js",
+    "static/css/main.420b58aa.chunk.css",
+    "static/js/main.a72a242e.chunk.js"
+  ]
+}
